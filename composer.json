@@ -1,0 +1,16 @@
+{
+    "name": "wesleywillians/acl",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wesley Willians",
+            "email": "wesleywillians@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "CodeEdu\\Acl\\": "src/"
+        }
+    }
+}
